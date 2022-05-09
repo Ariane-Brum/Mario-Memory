@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./src/assets/tela.png" alt="autor" width="295"  >
+<img src="https://user-images.githubusercontent.com/64805032/167466679-7d05412d-a837-4243-846f-e35d08ba4365.png" alt="autor" width="295"  >
 <br>
 <br>
 
@@ -16,9 +16,9 @@
   <div>
   <h2 >:computer: Desktop</h2>
     <h4>:video_game: Tela inicial</h4>
-  <img src="./src/assets/tela-desktop.png" width="800"/>
+  <img src="https://user-images.githubusercontent.com/64805032/167466836-847cc8e6-3855-4305-9c85-1f12cc860fed.png" width="800"/>
     <h4>:video_game: Tela fim de jogo</h4>
-  <img src="./src/assets/tela-desktop-fim.png" width="800"  />
+  <img src="https://user-images.githubusercontent.com/64805032/167466957-bb9c8493-d66b-4e6b-aa68-63d5c394fd00.png" width="800"  />
   </div>
   <br><br>
 </div>
@@ -28,11 +28,11 @@
 <div style="display: flex; justify-content: center;gap:20px; align-items: center;" >
   <div>
   <h4 >:video_game: Tela inicial</h4>
-  <img src="./src/assets/tela-mobile.png"  height="700"/>
+  <img src="https://user-images.githubusercontent.com/64805032/167467069-a397df12-c0c8-430e-9751-ec3be2ae057e.png"  height="700"/>
   </div>
   <div>
    <h4 >:video_game: Tela fim de jogo</h4>
-  <img src="./src/assets/tela-mobile-fim.png" height="700" />
+  <img src="https://user-images.githubusercontent.com/64805032/167467160-bd5cf0e3-f4af-4965-b433-fdf8d1d0e912.png" height="700" />
   </div>
   </div>
   <br><br>
