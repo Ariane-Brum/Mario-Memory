@@ -7,7 +7,7 @@
 <h2 id="objetivo">:dart:  Objetivo</h2>
 
 <p align="center">🚀 O projeto é um jogo da memória com o tema do Mario</p>
-<a align="center" style="display:block;" href="https://ariane-brum.github.io/Mario-Memory/" > Clique para visitar o projeto
+<a align="center" style="display:block;" href="https://mario-memory.vercel.app/" > Clique para visitar o projeto
 </a>
 <hr />
 
