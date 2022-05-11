@@ -34,7 +34,6 @@ export const AreaLogo = styled.div`
   align-items: center;
   justify-content: center;
   padding-bottom: 30px;
-  /* max-width: 350px; */
   margin: 0 auto;
 
   @media (max-width: 550px) {
@@ -43,9 +42,7 @@ export const AreaLogo = styled.div`
 `;
 
 export const Logo = styled.img`
-  /* max-width: 500px; */
-
-  @media (min-width: 551px) and (max-width: 1024px) {
+  @media (min-width: 551px) and (max-width: 1366px) {
     height: 110px;
     width: 250px;
   }
@@ -99,7 +96,7 @@ export const GridArea = styled.div`
     border: 3px solid #15803d;
   }
 
-  @media (min-width: 551px) and (max-width: 1024px) {
+  @media (min-width: 551px) and (max-width: 1366px) {
     padding: 0;
     width: auto;
   }
